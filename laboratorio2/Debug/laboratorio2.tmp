@@ -1,0 +1,37 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Nico\Documents\Atmel Studio\7.0\laboratorio2\laboratorio2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Nico\Documents\Atmel Studio\7.0\laboratorio2\laboratorio2\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Nico\Documents\Atmel Studio\7.0\laboratorio2\laboratorio2\Debug\laboratorio2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>laboratorio2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>laboratorio2.map</FILE>
+  <FILE>laboratorio2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <TABLA7SEG><FILE>C:\Users\Nico\Documents\Atmel Studio\7.0\laboratorio2\laboratorio2\main.asm</FILE><LINE>26</LINE></TABLA7SEG>
+  <Setup><FILE>C:\Users\Nico\Documents\Atmel Studio\7.0\laboratorio2\laboratorio2\main.asm</FILE><LINE>32</LINE></Setup>
+  <loop><FILE>C:\Users\Nico\Documents\Atmel Studio\7.0\laboratorio2\laboratorio2\main.asm</FILE><LINE>68</LINE></loop>
+  <delayi><FILE>C:\Users\Nico\Documents\Atmel Studio\7.0\laboratorio2\laboratorio2\main.asm</FILE><LINE>84</LINE></delayi>
+  <delayd><FILE>C:\Users\Nico\Documents\Atmel Studio\7.0\laboratorio2\laboratorio2\main.asm</FILE><LINE>99</LINE></delayd>
+  <delay1><FILE>C:\Users\Nico\Documents\Atmel Studio\7.0\laboratorio2\laboratorio2\main.asm</FILE><LINE>87</LINE></delay1>
+  <incrementar><FILE>C:\Users\Nico\Documents\Atmel Studio\7.0\laboratorio2\laboratorio2\main.asm</FILE><LINE>115</LINE></incrementar>
+  <delay2><FILE>C:\Users\Nico\Documents\Atmel Studio\7.0\laboratorio2\laboratorio2\main.asm</FILE><LINE>102</LINE></delay2>
+  <decrementar><FILE>C:\Users\Nico\Documents\Atmel Studio\7.0\laboratorio2\laboratorio2\main.asm</FILE><LINE>121</LINE></decrementar>
+  <display><FILE>C:\Users\Nico\Documents\Atmel Studio\7.0\laboratorio2\laboratorio2\main.asm</FILE><LINE>128</LINE></display>
+ </LABELS>
+</ASSEMBLER_INFO>
